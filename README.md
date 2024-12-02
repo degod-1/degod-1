@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Background
+
+Graduating from IIT Guwahati, I have a strong hold over Machine Learning and Backend technologies. I have worked on several industry scale projects, built across different blockchains, and cloud servers. Currently, am looking to contribute to Rust-based open Source projects and serverless technology.
+
+I have recieved Amazon AI ML scholarship , and selected into MLSS'2024 , and won multiple hackathons.
+
+I'm currently working on building low level systems to enhance latency of data fetching from a SQL based database. 
+
+
+
 <!--
 **degod-1/degod-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
